@@ -66,3 +66,7 @@ First set of tokens is mined by deployer address: `0xf39Fd6e51aad88F6F4ce6aB8827
 Only this address can issue the initial batch of tokens
 
 I can change the totalSupply but token contract also changes. 
+
+---
+
+ERC20 is a class from [Open Zeppeline](https://solidity-by-example.org/app/erc20/) with basic inheritable functions for balance, transfer, approve and allow
